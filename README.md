@@ -1,1 +1,1 @@
-# Gutenberg_Bible_LSTM
+# Gutenberg Bible LSTM
