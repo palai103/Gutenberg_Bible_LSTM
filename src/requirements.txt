@@ -1,0 +1,10 @@
+editdistance
+matplotlib
+natsort
+numpy
+opencv-python
+Pillow
+python-Levenshtein
+python-telegram-bot
+scikit-learn
+tensorboard
