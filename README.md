@@ -11,6 +11,10 @@ All the requirements needed for the project are available in the `requirements.t
 pip install -r requirements.txt
 ```
 
+### Dataset
+
+The dataset could be found at the following [link](https://drive.google.com/file/d/1dHIG8LPvInPb4hNakitM08kApL6WIOIM/view?usp=sharing). It contains the images of the bible and the transcription of the first two books: Genesis and Exodus.
+
 ## Paper
 
 You can find a detailed [paper](../master/Paper/D_DM_Project.pdf) in English about the entire project, the experiments and the results here. Following you can find some snippet of the most important parts
